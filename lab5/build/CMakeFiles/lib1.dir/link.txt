@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -lstdc++ -Wl,--no-as-needed -ldl -shared -Wl,-soname,liblib1.so -o liblib1.so CMakeFiles/lib1.dir/src/lib1.cpp.o 

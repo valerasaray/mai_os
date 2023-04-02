@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.5 FATAL_ERROR)
+project(main LANGUAGES CXX)
+set(CMAKE_CXX_FLAGS "-pthread -g")
+add_executable(child ./src/child.cpp)
+add_executable(main ./src/main.cpp)

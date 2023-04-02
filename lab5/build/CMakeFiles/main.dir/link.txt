@@ -1,0 +1,1 @@
+/usr/bin/c++ -lstdc++ -Wl,--no-as-needed -ldl CMakeFiles/main.dir/src/main2.cpp.o -o main 

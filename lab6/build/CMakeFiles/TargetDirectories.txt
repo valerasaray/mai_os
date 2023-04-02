@@ -1,0 +1,4 @@
+/home/valerasaray/Рабочий стол/os2/lab6/build/CMakeFiles/client.dir
+/home/valerasaray/Рабочий стол/os2/lab6/build/CMakeFiles/server.dir
+/home/valerasaray/Рабочий стол/os2/lab6/build/CMakeFiles/edit_cache.dir
+/home/valerasaray/Рабочий стол/os2/lab6/build/CMakeFiles/rebuild_cache.dir

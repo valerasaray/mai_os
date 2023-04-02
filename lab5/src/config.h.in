@@ -1,0 +1,9 @@
+    #ifndef CONFIG_H_IN
+    #define CONFIG_H_IN
+
+    #define PROJECT_NAME "@PROJECT_NAME@"
+    #define COMP_ID "@COMP_ID@"
+    #define COMP_VER "@COMP_VER@"
+    #define TIME_NOW "@TIME_NOW@"
+
+    #endif // CONFIG_H_IN

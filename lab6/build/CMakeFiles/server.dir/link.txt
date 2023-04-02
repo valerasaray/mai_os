@@ -1,0 +1,1 @@
+/usr/bin/c++ -fsanitize=address -g CMakeFiles/server.dir/src/server.cpp.o -o server  -lzmq 

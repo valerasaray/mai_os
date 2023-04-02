@@ -1,0 +1,4 @@
+/home/valerasaray/Рабочий стол/os-1/lab4/build/CMakeFiles/child.dir
+/home/valerasaray/Рабочий стол/os-1/lab4/build/CMakeFiles/main.dir
+/home/valerasaray/Рабочий стол/os-1/lab4/build/CMakeFiles/edit_cache.dir
+/home/valerasaray/Рабочий стол/os-1/lab4/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+/home/arseny/Рабочий стол/arseny/l5/30/build/CMakeFiles/lib1.dir
+/home/arseny/Рабочий стол/arseny/l5/30/build/CMakeFiles/lib2.dir
+/home/arseny/Рабочий стол/arseny/l5/30/build/CMakeFiles/main1.dir
+/home/arseny/Рабочий стол/arseny/l5/30/build/CMakeFiles/main2.dir
+/home/arseny/Рабочий стол/arseny/l5/30/build/CMakeFiles/main.dir
+/home/arseny/Рабочий стол/arseny/l5/30/build/CMakeFiles/edit_cache.dir
+/home/arseny/Рабочий стол/arseny/l5/30/build/CMakeFiles/rebuild_cache.dir

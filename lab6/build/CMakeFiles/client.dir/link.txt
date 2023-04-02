@@ -1,0 +1,1 @@
+/usr/bin/c++ -fsanitize=address -g CMakeFiles/client.dir/src/client.cpp.o -o client  -lzmq 

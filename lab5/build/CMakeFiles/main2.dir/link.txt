@@ -1,0 +1,1 @@
+/usr/bin/c++ -lstdc++ -Wl,--no-as-needed -ldl CMakeFiles/main2.dir/src/main1.cpp.o -o main2  -Wl,-rpath,"/home/arseny/Рабочий стол/arseny/l5/30/build" liblib2.so -ldl 
