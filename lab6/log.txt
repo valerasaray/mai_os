@@ -1,3 +1,3 @@
     PID TTY          TIME CMD
-   7034 pts/1    00:00:00 make.sh
-   7052 pts/1    00:00:00 ps
+  10015 pts/1    00:00:00 make.sh
+  10033 pts/1    00:00:00 ps
